@@ -47,6 +47,8 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output1.png)
 
+![Program Output](output.png)
+
 ![Program Output](output2.png)
 
 ## Contribution

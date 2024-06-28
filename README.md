@@ -75,7 +75,6 @@ The plot visually explains how many people in different age groups have high blo
 
 ![Program Output](output2.png)
 
-
 ---
 
 The program generates and plots a histogram to illustrate the distribution of high blood sugar readings in a population, along with key descriptive statistics. Here's what the plot communicates in layman's terms:

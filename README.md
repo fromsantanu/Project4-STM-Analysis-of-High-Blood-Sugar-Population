@@ -46,6 +46,7 @@ The programs are written on jupiter notebook, You may run the program on Google 
 ## Screenshots
 
 ![Program Output](output1.png)
+
 The program generates and plots a histogram to illustrate the distribution of high blood sugar cases across different age groups. Here's what the plot communicates in layman's terms:
 
 ### Plot Overview:

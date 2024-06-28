@@ -74,6 +74,51 @@ The plot visually explains how many people in different age groups have high blo
 
 ![Program Output](output2.png)
 
+The program generates and plots a histogram to illustrate the distribution of high blood sugar readings in a population, along with key descriptive statistics. Here's what the plot communicates in layman's terms:
+
+### Plot Overview:
+1. **Histogram**:
+   - The histogram shows the frequency of high blood sugar readings in various ranges.
+   - It includes lines for the central point of the normal blood sugar range and the mean of the sample readings.
+
+### Key Points:
+1. **Blood Sugar Readings**:
+   - The x-axis represents different blood sugar levels in mg/dL.
+   - The y-axis represents the frequency of readings within each range.
+
+2. **Descriptive Statistics**:
+   - **Mean (Average)**: The average blood sugar level of the sample.
+   - **Median**: The middle value when the readings are sorted.
+   - **Variance**: A measure of how spread out the readings are.
+   - **Standard Deviation**: Another measure of the spread or variability of the readings.
+   - **Range**: The difference between the highest and lowest readings.
+   - **Skewness**: Indicates the asymmetry of the distribution (positive skew means more readings are on the lower end).
+   - **Kurtosis**: Indicates the "tailedness" of the distribution (higher kurtosis means more readings are in the tails).
+
+3. **Central Point**:
+   - A red dashed line represents the central point for the normal blood sugar range (e.g., 100 mg/dL).
+
+4. **Mean Reading**:
+   - A green dashed line represents the mean blood sugar level of the sample.
+
+### Interpretation:
+- **Distribution of Readings**:
+  - The histogram shows how often different blood sugar levels occur in the sample.
+  - The position of the mean and central point lines helps to see where the majority of the readings fall concerning the normal range.
+
+- **Variability and Skewness**:
+  - The spread of the bars indicates the variability in blood sugar readings.
+  - If most bars are to the right of the central point, it indicates higher readings than the normal range.
+
+### In Layman's Terms:
+The plot visually explains how blood sugar levels are distributed among a group of people. Each bar shows how many people have blood sugar levels within a specific range. The red dashed line represents the normal blood sugar level (100 mg/dL), and the green dashed line shows the average blood sugar level of the group.
+
+- If the green line (mean) is much higher than the red line (normal range center), it means that, on average, people's blood sugar levels are higher than normal.
+- The spread of the bars (height and width) tells us how varied the blood sugar levels are—whether they are similar across the group or if there is a wide range of different levels.
+
+This plot helps to understand the overall pattern of blood sugar levels in the population and indicates whether most people have higher than normal blood sugar levels, which could be a health concern.
+
+
 ## Contribution
 
 The programs are written by Santanu Karmakar

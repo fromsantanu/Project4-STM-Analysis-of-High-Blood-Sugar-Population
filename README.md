@@ -71,7 +71,6 @@ The plot visually explains how many people in different age groups have high blo
 
 ---
 
-
 ![Program Output](output.png)
 
 ![Program Output](output2.png)

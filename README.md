@@ -69,7 +69,6 @@ The program generates and plots a histogram to illustrate the distribution of hi
 ### In Layman's Terms:
 The plot visually explains how many people in different age groups have high blood sugar. Each bar represents an age group, and the height of the bar shows the number of people with high blood sugar in that group. For instance, if the bar for the '36-50' age group is the tallest, it means that the most cases of high blood sugar are found in people aged 36-50. This helps to understand which age groups are more affected by high blood sugar.
 
----
 
 ![Program Output](output.png)
 

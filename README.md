@@ -50,22 +50,22 @@ The programs are written on jupiter notebook, You may run the program on Google 
 The program generates and plots a histogram to illustrate the distribution of high blood sugar cases across different age groups. Here's what the plot communicates in layman's terms:
 
 ### Plot Overview:
-**Histogram:**
-- The histogram shows the number of high blood sugar cases in various age groups.
+1. **Histogram:**
+   - The histogram shows the number of high blood sugar cases in various age groups.
 
 ### Key Points:
-**Age Groups:**
-- The x-axis represents different age groups: '0-18', '19-35', '36-50', '51-65', and '66+'.
-- Each age group is mapped to a numerical bin for plotting purposes.
+1. **Age Groups:**
+   - The x-axis represents different age groups: '0-18', '19-35', '36-50', '51-65', and '66+'.
+   - Each age group is mapped to a numerical bin for plotting purposes.
 
-**High Blood Sugar Cases:**
-- The y-axis represents the number of high blood sugar cases.
-- The height of each bar corresponds to the number of cases in each age group.
+2. **High Blood Sugar Cases:**
+   - The y-axis represents the number of high blood sugar cases.
+   - The height of each bar corresponds to the number of cases in each age group.
 
 ### Interpretation:
-**Distribution of Cases:**
-- The histogram shows how high blood sugar cases are distributed across different age groups.
-- For example, the tallest bar indicates the age group with the highest number of cases.
+1. **Distribution of Cases:**
+   - The histogram shows how high blood sugar cases are distributed across different age groups.
+   - For example, the tallest bar indicates the age group with the highest number of cases.
 
 ### In Layman's Terms:
 The plot visually explains how many people in different age groups have high blood sugar. Each bar represents an age group, and the height of the bar shows the number of people with high blood sugar in that group. For instance, if the bar for the '36-50' age group is the tallest, it means that the most cases of high blood sugar are found in people aged 36-50. This helps to understand which age groups are more affected by high blood sugar.
@@ -74,6 +74,9 @@ The plot visually explains how many people in different age groups have high blo
 ![Program Output](output.png)
 
 ![Program Output](output2.png)
+
+
+---
 
 The program generates and plots a histogram to illustrate the distribution of high blood sugar readings in a population, along with key descriptive statistics. Here's what the plot communicates in layman's terms:
 
